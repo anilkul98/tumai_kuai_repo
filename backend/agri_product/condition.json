@@ -1,0 +1,66 @@
+{
+    "wheat": {
+        "av_temp": 15.5,
+        "min_temp": -99,
+        "max_temp": 20,
+        "annual_min_rain_mm": 300,
+        "annual_max_rain_mm": 1000,
+        "yearly_frost_free": 100
+    },
+    "corn": {
+        "av_temp": 25,
+        "min_temp": 5,
+        "max_temp": 35,
+        "annual_min_rain_mm": -99,
+        "annual_max_rain_mm": -99,
+        "yearly_frost_free": 130
+    },
+    "cotton": {
+        "av_temp": 29,
+        "min_temp": 10,
+        "max_temp": 43,
+        "annual_min_rain_mm": -99,
+        "annual_max_rain_mm": -99,
+        "yearly_frost_free": -99
+    },
+    "tomato": {
+        "av_temp": 25,
+        "min_temp": -99,
+        "max_temp": -99,
+        "annual_min_rain_mm": -99,
+        "annual_max_rain_mm": -99,
+        "yearly_frost_free": -99
+    },
+    "pea": {
+        "av_temp": -99,
+        "min_temp": 7,
+        "max_temp": 22,
+        "annual_min_rain_mm": -99,
+        "annual_max_rain_mm": -99,
+        "yearly_frost_free": -99
+    },
+    "sugar_beet": {
+        "av_temp": 21,
+        "min_temp": -99,
+        "max_temp": -99,
+        "annual_min_rain_mm": -99,
+        "annual_max_rain_mm": -99,
+        "yearly_frost_free": -99
+    },
+    "sunflower": {
+        "av_temp": 23,
+        "min_temp": 10,
+        "max_temp": -99,
+        "annual_min_rain_mm": -99,
+        "annual_max_rain_mm": -99,
+        "yearly_frost_free": -99
+    },
+    "orange": {
+        "av_temp": 23,
+        "min_temp": 2,
+        "max_temp": 37,
+        "annual_min_rain_mm": 1000,
+        "annual_max_rain_mm": 1500,
+        "yearly_frost_free": -99
+    }
+}
