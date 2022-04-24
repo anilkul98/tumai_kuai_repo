@@ -1,0 +1,53 @@
+.cardOutline{
+    border: 1px solid black;
+    width: 20rem;
+    height: 30rem;
+    display: flex;
+    background: #8EF300;
+    border: 3px solid #D0D0D0;
+    border-radius: 60px;
+    color: white;
+  }
+  .infoBox{
+    border: 1px solid blue;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .scoreInfoBox{
+    border: 1px solid red;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .scoreText{
+    font-family: HelveticaNeue-Bold;
+    font-size: 24px;
+    width: 100%;
+    height: 50%;
+    border: 1px solid green;
+    text-align: bottom;
+  }
+  
+  .scoreNumber{
+    font-family: HelveticaNeue-Bold;
+    font-size: 72px;
+    width: 100%;
+    height: 50%;
+    border: 1px solid aqua;
+  }
+  
+  .infoTextContainer{
+    font-family: HelveticaNeue-Bold;
+    font-size: 12px;
+    color: #FFFFFF;
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+  }

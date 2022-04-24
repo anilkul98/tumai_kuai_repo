@@ -1,0 +1,23 @@
+.landScorePageLayout{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.upperPart{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3%;
+}
+
+.belowPart{
+  display: flex;
+  flex-direction: column;
+  margin-top: 3%;
+}
+
+.genericLandCard{
+  margin-top:1%;
+  margin-bottom:1%;
+}
